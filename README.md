@@ -18,7 +18,7 @@ A visually appealing countdown **Timer & Alarm Clock app** built using **Python'
 
 ## 📸 Demo
 
-> UI preview with egg (start), face (reset), and brush (default) buttons.
+> UI preview with start, reset, and brush default buttons.
 
 
 
